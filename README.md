@@ -22,7 +22,7 @@ Then convert your python file to exe file, and give it to your best friend as a 
 
 ```
 
-Telegram: @esfelurm
+Telegram: https://t.me/esfelurm
 Github: https://github.com/esfelurm
 Github2: https://github.com/esfelorm
 Github3: https://github.com/Mr-Spect3r
